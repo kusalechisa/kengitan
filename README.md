@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Asset Attribution
+
+The animated character used in this application is "Rive's animated emojis" by JcToon, licensed under CC BY.
+You can find the original asset here: [https://rive.app/community/files/1714-4322-rives-animated-emojis/](https://rive.app/community/files/1714-4322-rives-animated-emojis/)
